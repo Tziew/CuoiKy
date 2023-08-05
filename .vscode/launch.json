@@ -1,0 +1,28 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "name": "group_chatapp_flutter_firebase-main",
+            "cwd": "flutter_chatapp-main\\group_chatapp_flutter_firebase-main",
+            "request": "launch",
+            "type": "dart"
+        },
+        {
+            "name": "group_chatapp_flutter_firebase-main (profile mode)",
+            "cwd": "flutter_chatapp-main\\group_chatapp_flutter_firebase-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "profile"
+        },
+        {
+            "name": "group_chatapp_flutter_firebase-main (release mode)",
+            "cwd": "flutter_chatapp-main\\group_chatapp_flutter_firebase-main",
+            "request": "launch",
+            "type": "dart",
+            "flutterMode": "release"
+        }
+    ]
+}
